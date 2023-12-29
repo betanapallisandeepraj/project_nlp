@@ -62,6 +62,7 @@ Consonants (Hallulu):
 ర U+0C30
 ఱ U+0C31
 ల U+0C32
+ళ U+0C33
 వ U+0C35
 శ U+0C36
 ష U+0C37
